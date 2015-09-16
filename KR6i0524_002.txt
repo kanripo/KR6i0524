@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:44.529895
+#+DATE: 2015-08-30 20:21:46.252354
 #+TITLE: 大莊嚴法門經
 #+PROPERTY: CBETA_ID T17n0818
 #+PROPERTY: ID KR6i0524
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 818
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0524_T_000-0825a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0524_T_002-0829a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《大莊嚴法門經》卷下(亦名文殊師利神通力經，亦名勝金色光明德女經)¶
+《大莊嚴法門經》卷下(亦名文殊師利神通力經，亦名勝金色光明德女經)¶
 ¶
 隋天竺三藏那連提耶舍譯¶
 
@@ -94,7 +93,7 @@
 <pb:KR6i0524_T_002-0829c>¶
 能燒薪，如是不生煩惱於流轉中不受生死；¶
 如火出已即能燒薪，惡覺生者流轉生死。譬¶
-如火燒大𧂐草木火勢難滅，如是惡見毒心¶
+如火燒大[卄/積]草木火勢難滅，如是惡見毒心¶
 與煩惱合，於三界中熾然常燒無有休息。譬¶
 如無薪火不得然，如是遠離惡見煩惱不生¶
 三界。譬如火然設百千歲，無有利益亦不增¶
